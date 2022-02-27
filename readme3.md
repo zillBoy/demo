@@ -14,3 +14,5 @@ This is another line which is from master branch
 This is another file and need to create another stash
 ## creating something
 This is crazy and amazing!
+
+This is new line
