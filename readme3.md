@@ -12,3 +12,5 @@ This is another line which is from master branch
 
 ## THIS IS ANOTHER HEADER
 This is another file and need to create another stash
+## creating something
+This is crazy and amazing!
